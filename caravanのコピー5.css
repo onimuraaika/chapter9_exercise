@@ -9,6 +9,11 @@ a {
   text-decoration: none;
 }
 
+/* 複数のfont-familyを追加しておくと、左から順番に対応するものから適用される */
+header, nav, h2, .main-visual, footer {
+  font-family: Chalkduster, "Bradley Hand", Courier, "Segoe Print", sans-serif;
+}
+
 header {
   width: 90%;
   padding: 15px 0;
