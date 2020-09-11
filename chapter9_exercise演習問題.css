@@ -5,10 +5,17 @@
 }
 
 header {
+  height: 50px;
+  background-color: #ff9a4b;
 }
 
 main {
+  width: 960px;
+  margin: 50px auto;
+  display: flex;
 }
 
 footer {
+  height: 50px;
+  background-color: #aaa;
 }
