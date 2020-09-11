@@ -16,6 +16,12 @@ header {
   text-align: center;
 }
 
+/* ソーシャルアイコンのCSS */
+.social i {
+  display: inline-block;
+  margin-left: 20px;
+}
+
 header .heading {
   /* headerタグ内headingクラスだけに反映　*/
   font-size: 32px;
