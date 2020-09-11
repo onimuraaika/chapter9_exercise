@@ -30,6 +30,13 @@ main {
   background-size: cover;
 }
 
+.step-img2 {
+  height: 150px;
+  background-image: url(演習問題/img/flow02.png);
+  background-position: bottom;
+  background-size: cover;
+}
+
 .step-num {
   padding: 3px;
   position: absolute;
